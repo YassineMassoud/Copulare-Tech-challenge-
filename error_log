@@ -1,0 +1,1 @@
+[24-Jun-2022 19:11:27 UTC] PHP Fatal error:  Cannot declare class CreateLeadsTablea, because the name is already in use in /home/heydevxyz/public_html/dev/crm/database/migrations/2022_06_22_192728_create_leads_table.php on line 0
